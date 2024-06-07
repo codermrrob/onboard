@@ -24,7 +24,7 @@ The credentials consist of a client id and a client secret.
 async function authenticate() {
     const credentials = {
         client_id : "IfI1Y3lpFmTmCWXD7W5Ah4jTAuKWc2Gn",
-        client_secret : "bfYvKC2EVKgaY4OT2lKRW7PW7OLjr-AU8_IiHQ9eImhQGekosmUWKscbkCF8kuiu",
+        client_secret : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
         audience : "https://platform.linked2.io/api",
         grant_type : "client_credentials"
     }
@@ -96,7 +96,7 @@ Provide the product Id for the Shopify2Go product and we get given a stage confi
      "stageId": "a28e0000-3a2a-000d-c1a9-08d6973d8e3c",
      "customerName": "",
      "customerIdentifier": "",
-     "secret": "nwojMpuGtfxxzCnt9eCyU994wKlx8N7PFTxliXFO/uw=",
+     "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
      "stageName": "Shopify2Go",
      "stageDescription": "This will be customers stage, configure with the customer name, etc.",
      "stageGroup": "shopify2Go" },
